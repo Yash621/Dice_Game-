@@ -1,0 +1,4 @@
+#Thu Dec 24 10:58:12 IST 2020
+base.0=/home/joker69/AndroidStudioProjects/dicee-flutter/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
